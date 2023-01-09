@@ -1,5 +1,4 @@
-<h1>Hi, I'm Leighton </br>
-<a href="https://linkedin.com/in/Josh](https://www.linkedin.com/in/leighton-campbell-5173a213/)">IT Professional</a></h1>
+<h1>Hi, I'm Leighton, an <a href="https://linkedin.com/in/Josh](https://www.linkedin.com/in/leighton-campbell-5173a213/)">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
