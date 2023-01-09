@@ -5,7 +5,6 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/LeightonCampbell/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/LeightonCampbell/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/LeightonCampbell/osticket-prerequisites)
